@@ -7,6 +7,8 @@ It enables quick identification of **best & worst selling pizzas**, **busiest da
 ---
 <img width="1301" height="736" alt="Screenshot Pizza Sales Dashboard Home" src="https://github.com/user-attachments/assets/bab9583a-5e14-4e67-9f8a-a66e78373f50" />
 
+<img width="1304" height="739" alt="Screenshot Pizza Sales Dashboard 2nd Tab" src="https://github.com/user-attachments/assets/36c8864c-fafd-4ecd-86ae-72e359bf26a0" />
+
 ## 🎯 Project Objectives
 - Analyze overall sales and revenue performance
 - Identify top and bottom performing pizzas
